@@ -1,10 +1,6 @@
 # angular-alpha
-Demo project to learn angular and git
 
-initial commit example
+## What is angular?
 
-commit using ide
-
-additional commit through cmd
-
-edited on website
+- something about angular
+  ` console.log('abc) `
