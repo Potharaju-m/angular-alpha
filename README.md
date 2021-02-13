@@ -6,3 +6,5 @@ initial commit example
 commit using ide
 
 additional commit through cmd
+
+edited on website
